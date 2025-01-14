@@ -954,9 +954,9 @@ main {
 .project-item > a { width: 100%; }
 
 .project-img {
-  position: relative;
+  object-fit: cover;
   width: 100%;
-  height: 200px;
+  height: auto;
   border-radius: 16px;
   overflow: hidden;
   margin-bottom: 15px;
