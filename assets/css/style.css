@@ -848,6 +848,12 @@ main {
   margin-bottom: 8px;
 }
 
+.title-wrapper h5 {
+  font-size: 18px;
+  font-weight: bold;
+  color: var(--dark-gray);
+}
+
 .skill .title-wrapper data {
   color: var(--light-gray);
   font-size: var(--fs-7);
